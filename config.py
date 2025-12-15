@@ -6,6 +6,7 @@ DATA_DIR = BASE_DIR / "data"
 
 # Chemins de tous les datasets
 DATASET_PATH = DATA_DIR / "temperature.csv"
+
 HUMIDITY_PATH = DATA_DIR / "humidity.csv"
 PRESSURE_PATH = DATA_DIR / "pressure.csv"
 WIND_SPEED_PATH = DATA_DIR / "wind_speed.csv"
